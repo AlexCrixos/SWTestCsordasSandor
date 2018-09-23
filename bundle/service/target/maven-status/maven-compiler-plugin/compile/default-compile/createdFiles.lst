@@ -1,0 +1,5 @@
+hu\uni\miskolc\iit\swtest\book\dao\BookDAO.class
+hu\uni\miskolc\iit\swtest\book\dao\exception\DuplicatedBookEntryException.class
+hu\uni\miskolc\iit\swtest\book\service\BookManagerServiceImpl.class
+hu\uni\miskolc\iit\swtest\book\dao\exception\EntryNotFoundExpcetion.class
+hu\uni\miskolc\iit\swtest\book\service\App.class

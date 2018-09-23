@@ -1,0 +1,7 @@
+hu\uni\miskolc\iit\swtest\book\core\service\BookManagerService.class
+hu\uni\miskolc\iit\swtest\book\core\subject\InvalidPublicationYearException.class
+hu\uni\miskolc\iit\swtest\book\core\subject\BookType.class
+hu\uni\miskolc\iit\swtest\book\core\service\BookDoesNotExisitsException.class
+hu\uni\miskolc\iit\swtest\book\core\subject\Book.class
+hu\uni\miskolc\iit\swtest\book\core\subject\Genre.class
+hu\uni\miskolc\iit\swtest\book\core\service\exceptions\BookAlreadyExistsException.class
