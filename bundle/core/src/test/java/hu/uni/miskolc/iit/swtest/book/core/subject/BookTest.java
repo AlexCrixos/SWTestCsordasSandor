@@ -16,7 +16,7 @@ public class BookTest {
 	@Before
 	public void setUp() {
 		try {
-			this.book = new Book(BookType.Timetravel, SCIFI_PUBLISHER, 2000, 750);
+			this.book = new Book(BookType.Timetravel, SCIFI_PUBLISHER, 1940, 750);
 		} catch (InvalidPublicationYearException e) {
 			Assume.assumeNoException(e);
 		}
@@ -45,7 +45,7 @@ public class BookTest {
 	
 	@Test
 	public void testPublicationYearWithScifi() {
-		int expected = 2000;
+		int expected = 1940;
 		int actual = book.getPublicationYear();
 		Assert.assertEquals(expected, actual);
 	}
